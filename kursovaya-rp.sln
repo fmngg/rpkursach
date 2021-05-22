@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursovaya-rp", "kursovaya-rp\kursovaya-rp.csproj", "{B07811CE-E1F7-4DEC-9F19-68C9B32AE5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07811CE-E1F7-4DEC-9F19-68C9B32AE5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07811CE-E1F7-4DEC-9F19-68C9B32AE5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07811CE-E1F7-4DEC-9F19-68C9B32AE5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07811CE-E1F7-4DEC-9F19-68C9B32AE5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7EA1458-4705-444A-BD56-3D8A3E55F4B5}
+	EndGlobalSection
+EndGlobal

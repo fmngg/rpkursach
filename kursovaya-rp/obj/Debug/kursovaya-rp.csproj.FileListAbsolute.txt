@@ -1,0 +1,10 @@
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya-rp.csprojAssemblyReference.cache
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya_rp.Properties.Resources.resources
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya-rp.csproj.GenerateResource.cache
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya-rp.csproj.CoreCompileInputs.cache
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\bin\Debug\kursovaya-rp.exe.config
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\bin\Debug\kursovaya-rp.exe
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\bin\Debug\kursovaya-rp.pdb
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya-rp.exe
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya-rp.pdb
+F:\БНТУ\4 сем\РП\kursovaya\kursovaya-rp\kursovaya-rp\obj\Debug\kursovaya.Form1.resources
